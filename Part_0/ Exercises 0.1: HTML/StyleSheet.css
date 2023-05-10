@@ -1,0 +1,10 @@
+.Title{
+    font-family: 'Courier New', Courier, monospace;
+    position: absolute;
+    text-align: center;
+    font-size: larger;
+    text-shadow: 1px -1px 1px rgba(0,0,0,0.4);
+    background: linear-gradient(90deg, rgba(27,0,36,0.9529936974789917) 0%, rgba(93,9,121,1) 35%, rgba(209,0,255,1) 100%);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
